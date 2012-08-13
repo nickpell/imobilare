@@ -1,0 +1,14 @@
+A:link {text-decoration:none; color:816d43;}
+A:visited {text-decoration:none; color:816d43;}
+A:active {text-decoration:underline; color:b4b4b4;}
+A:hover {text-decoration:underline;color:b4b4b4;}
+
+.menu A:link {text-decoration:none; color:816d43;}
+.menu A:visited {text-decoration:none; color:816d43;}
+.menu A:active {text-decoration:none; color:b4b4b4;}
+.menu A:hover {text-decoration:none;color:b4b4b4;}
+
+.bluefront A:link {text-decoration:none; color:333333;}
+.bluefront A:visited {text-decoration:none; color:333333;}
+.bluefront A:active {text-decoration:underline; color:666666;}
+.bluefront A:hover {text-decoration:underline;color:666666;}

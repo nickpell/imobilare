@@ -1,0 +1,13 @@
+-added redirect from http://web.mit.edu/imobilare
+ to http://imobilare.mit.edu (-> /imobilare/www)
+-fixed practice times
+-added breakonomics info
+-added performance schedule
+-added fancybox script for media
+
+todo
+-spiff up events/media pages
+-add more links
+-practices page is redundant
+
+tonyliu, 3/5/09

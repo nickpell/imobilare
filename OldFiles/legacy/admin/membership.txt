@@ -1,0 +1,21 @@
+Imobilare Membership as of September 12, 2004
+
+This is based on the email list bboy@mit.edu
+
+There are 213 total members
+
+163 people with @mit.edu
+9 members with @alum.mit.edu
+41 with non MIT email addresses
+
+We assume 2/3 of @mit.edu members are undergrad
+
+We assume 2/3 of non MIT email addresses do not go to MIT
+1/3 of non MIT email addresses are alumni
+
+THEREFORE
+
+Undergrad membership = 109
+Grad membership = 54
+Alumni membership = 23
+Non-MIT membership = 27
